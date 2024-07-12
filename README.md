@@ -25,3 +25,7 @@ After building the Docker image, execute the container with the command:
 ```sh
 docker run app
 ```
+
+After that, the result will be show on the terminal
+
+
